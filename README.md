@@ -1,8 +1,8 @@
-# OCASI – Open Consent-Aware Service Interface
+# OCASI – Open Consent-Aware Interface
 
 ## Overview
 
-OCASI is a small, self-hostable digital commons artefact designed to provide a clear, machine-readable interface for handling explicit user consent in decentralized and self-hosted services. Its purpose is to externalize consent management from applications, reducing duplicated logic and enabling consistent, reusable consent-derived access rules across systems.
+OCASI is a small, self-hostable reference component digital commons artefact designed to provide a clear, machine-readable interface for handling explicit user consent in decentralized and self-hosted services. Its purpose is to externalize consent management from applications, reducing duplicated logic and enabling consistent, reusable consent-derived access rules across systems.
 
 The artefact focuses strictly on the lifecycle and evaluation of explicit consent. It does not seek to become a general authorization or identity framework. OCASI is intentionally narrow, stable in scope, and designed to operate as a standalone component.
 
